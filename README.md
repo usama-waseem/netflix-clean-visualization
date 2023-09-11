@@ -1,2 +1,2 @@
 # netflix-clean-visualization
-Displaying Visualization using seaborn package and a new description analysis
+Displaying Visualization using seaborn package and a few description analysis
